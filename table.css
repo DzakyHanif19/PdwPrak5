@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(4, 255, 171);
+    background-repeat: no-repeat;
+}
+
+#Judul {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+    margin: 2px;
+    font-size: 100pt;
+    background-color: black;
+}
+
+table {
+    display: inline-block;
+}
+
+#jdl {
+    text-align: center;
+}
+
+#member {
+    width: 100px;
+    display: inline-block;
+}
+
+#mnama {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mposisi{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mtgl{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#msub{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.left-div{
+    width: 100px;
+    display: inline-block;
+}
+
+.right-div{
+    display: inline-block;
+}
